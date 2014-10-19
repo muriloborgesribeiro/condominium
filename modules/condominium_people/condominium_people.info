@@ -1,0 +1,4 @@
+name = Condominiun People
+description = This module is responsible for managing the types of people in a condominium.
+core = 7.x
+Project = Condominium. 
